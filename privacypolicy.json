@@ -1,1 +1,141 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "2025-12-18",
+  "maintainedBy": "ANW Studio",
+  "introduction": "This Privacy Policy explains how we collect, use, store, and protect your information when you use our app (\"the App\"). Because the App is currently available only to a small, controlled group of users during early development, its features — and this Privacy Policy — may change over time. Any major updates will be communicated to users.",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Information We Collect",
+      "content": "We collect the following types of information:",
+      "subsections": [
+        {
+          "title": "Personal Information",
+          "items": [
+            "Name",
+            "Email address",
+            "Profile picture"
+          ]
+        },
+        {
+          "title": "Training Data",
+          "items": [
+            "Training activity details (time, type, notes, date)"
+          ]
+        },
+        {
+          "title": "Usage Data",
+          "items": [
+            "General app usage analytics",
+            "Device and interaction data used to understand feature usage and improve the App"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "How We Store Information",
+      "content": "Your data is stored securely using Firebase services:",
+      "items": [
+        {
+          "title": "Firebase Authentication",
+          "description": "stores your email and authentication details"
+        },
+        {
+          "title": "Firebase Firestore",
+          "description": "stores user account information, training logs, and preferences"
+        },
+        {
+          "title": "Firebase Storage",
+          "description": "stores profile pictures"
+        }
+      ],
+      "footer": "All Firebase services comply with industry-standard security and encryption practices."
+    },
+    {
+      "id": 3,
+      "title": "How We Use Information",
+      "content": "We use your information for the following purposes:",
+      "items": [
+        "To create and manage user accounts",
+        "To allow you to track your personal training history",
+        "To enable optional sharing of training logs with your coach",
+        "To provide and save user preferences",
+        "To analyse how the App is being used and improve features"
+      ],
+      "nestedItems": {
+        "title": "To send emails for:",
+        "items": [
+          "Account verification",
+          "Referral invitations (when initiated by you)",
+          "Optional sharing features (when initiated by you)"
+        ]
+      },
+      "footer": "We do not use your information for advertising."
+    },
+    {
+      "id": 4,
+      "title": "Data Sharing",
+      "content": "We do not share your personal information with third parties, except:",
+      "items": [
+        {
+          "title": "Firebase Authentication",
+          "description": "which processes your email and password to verify your identity."
+        }
+      ],
+      "footer": "No other user data is shared or sold to third parties."
+    },
+    {
+      "id": 5,
+      "title": "Data Deletion",
+      "paragraphs": [
+        "You may delete your account and all associated data at any time through the App.",
+        "You may also request deletion by contacting us directly.",
+        "When an account is deleted:"
+      ],
+      "items": [
+        "All training history is removed",
+        "All personal information is removed",
+        "Linked content in Firebase Storage (e.g., profile pictures) is deleted"
+      ],
+      "footer": "Data removal is permanent and cannot be recovered."
+    },
+    {
+      "id": 6,
+      "title": "Emails & Communication",
+      "content": "We use your email address only for:",
+      "items": [
+        "Account verification",
+        "Optional sharing with coaches (only when initiated by you)",
+        "Referral invitations (only when initiated by you)"
+      ],
+      "footer": "We do not send marketing emails."
+    },
+    {
+      "id": 7,
+      "title": "Access Restrictions",
+      "paragraphs": [
+        "The App is currently accessible only to a limited group of users.",
+        "Access is granted manually by the administrator during this development phase."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Changes to This Policy",
+      "paragraphs": [
+        "Because the App is still under development, this Privacy Policy may change.",
+        "If significant updates occur, we will notify users through the App or via email."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Contact",
+      "content": "If you have questions, feedback, or requests (including account or data deletion):",
+      "contact": {
+        "company": "ANW Studio",
+        "email": "contact@anwstudio.com"
+      }
+    }
+  ]
+}
 
