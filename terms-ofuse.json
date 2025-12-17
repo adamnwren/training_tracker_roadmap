@@ -1,0 +1,141 @@
+{
+  "title": "Terms of Use",
+  "lastUpdated": "2025-12-18",
+  "maintainedBy": "ANW Studio",
+  "introduction": "By accessing and using Ice Form (\"the App\"), you agree to be bound by these Terms of Use. Please read them carefully. If you do not agree to these terms, you may not use the App.",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Acceptance of Terms",
+      "paragraphs": [
+        "These Terms of Use constitute a legally binding agreement between you and ANW Studio regarding your use of the App.",
+        "By creating an account or using the App, you confirm that you accept these terms and agree to comply with them."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Early Development Phase",
+      "paragraphs": [
+        "The App is currently in early development and available only to a limited group of users."
+      ],
+      "items": [
+        "Features may change, be added, or removed without prior notice",
+        "The App may experience bugs, errors, or downtime",
+        "These Terms may be updated as the App evolves",
+        "You acknowledge that the App is provided on an \"as is\" basis during this development phase"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Account Registration and Access",
+      "content": "To use the App, you must:",
+      "items": [
+        "Create an account with accurate information",
+        "Maintain the confidentiality of your account credentials",
+        "Be responsible for all activity under your account",
+        "Wait for administrator approval before accessing App features"
+      ],
+      "footer": "You must not share your account with others or allow unauthorized access."
+    },
+    {
+      "id": 4,
+      "title": "Permitted Use",
+      "content": "You may use the App for personal, non-commercial purposes to:",
+      "items": [
+        "Track your figure skating training activities",
+        "Set and monitor training goals",
+        "Maintain personal training logs and notes",
+        "Share training information with coaches (when initiated by you)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Prohibited Activities",
+      "content": "You must not:",
+      "items": [
+        "Use the App for any illegal or unauthorized purpose",
+        "Attempt to gain unauthorized access to the App or other users' accounts",
+        "Interfere with or disrupt the App's functionality",
+        "Reverse engineer, decompile, or disassemble any portion of the App",
+        "Remove or modify any copyright, trademark, or proprietary notices",
+        "Use the App to harass, abuse, or harm others",
+        "Transmit viruses, malware, or other harmful code",
+        "Scrape, copy, or download data from the App without permission"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "User Content and Data",
+      "paragraphs": [
+        "You retain ownership of all training data, notes, and content you create in the App.",
+        "By using the App, you grant ANW Studio a license to:"
+      ],
+      "items": [
+        "Store and process your data to provide App functionality",
+        "Use aggregated, anonymized data to improve the App"
+      ],
+      "footer": "We will not share your personal data with third parties except as described in our Privacy Policy."
+    },
+    {
+      "id": 7,
+      "title": "Intellectual Property",
+      "paragraphs": [
+        "The App, including its design, code, features, and content, is owned by ANW Studio and protected by copyright and other intellectual property laws.",
+        "You may not copy, modify, distribute, or create derivative works based on the App without express written permission."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Disclaimers and Limitation of Liability",
+      "paragraphs": [
+        "The App is provided \"as is\" and \"as available\" without warranties of any kind, either express or implied.",
+        "ANW Studio does not guarantee that:"
+      ],
+      "items": [
+        "The App will be error-free or uninterrupted",
+        "Defects will be corrected",
+        "The App will meet your specific requirements",
+        "Data will be permanently stored or backed up"
+      ],
+      "footer": "To the maximum extent permitted by law, ANW Studio shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App."
+    },
+    {
+      "id": 9,
+      "title": "Account Termination",
+      "paragraphs": [
+        "You may delete your account at any time through the App.",
+        "ANW Studio reserves the right to suspend or terminate your account if you:"
+      ],
+      "items": [
+        "Violate these Terms of Use",
+        "Engage in prohibited activities",
+        "Provide false or misleading information"
+      ],
+      "footer": "Upon termination, your data will be deleted as described in our Privacy Policy."
+    },
+    {
+      "id": 10,
+      "title": "Changes to Terms",
+      "paragraphs": [
+        "Because the App is under active development, these Terms may be updated from time to time.",
+        "We will notify users of significant changes through the App or via email. Continued use of the App after changes constitutes acceptance of the updated Terms."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Governing Law",
+      "paragraphs": [
+        "These Terms are governed by and construed in accordance with applicable laws. Any disputes will be resolved in accordance with the jurisdiction where ANW Studio operates."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Contact Information",
+      "content": "If you have questions about these Terms of Use:",
+      "contact": {
+        "company": "ANW Studio",
+        "email": "contact@anwstudio.com"
+      }
+    }
+  ]
+}
