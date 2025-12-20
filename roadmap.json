@@ -13,7 +13,7 @@
       "icon": "Sparkles"
     }
   ],
-  "planned": [
+"planned": [
     {
       "title": "Mobile App",
       "description": "Cross Platform mobile (Android and iOS) app for training on the go",
@@ -35,7 +35,7 @@
       "eta": "TBA"
     }
   ],
-  "completed": [
+"completed": [
     {
       "title": "Weekly Focus Notes",
       "description": "Set weekly training goals and focus areas",
