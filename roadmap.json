@@ -1,55 +1,55 @@
 {
-  "inProgress": [
-    {
-      "title": "Migrating To Supabase",
-      "description": "Moving our backend from Firebase to Supabase. You hopefully won't notice the difference but we might have some teething issues.",
-      "eta": "Jan 2026",
-      "icon": "Cloud"
-    },
-    {
-      "title": "Weekly Report Emails",
-      "description": "Send comprehensive weekly training reports to your coach via email.",
-      "eta": "Coming Soon",
-      "icon": "Sparkles"
-    }
-  ],
-  "planned": [
-    {
-      "title": "Mobile App",
-      "description": "Cross Platform mobile (Android and iOS) app for training on the go",
-      "eta": "Q2 2026"
-    },
-    {
-      "title": "Coach Dashboard",
-      "description": "Dedicated portal for coaches to view and manage multiple athletes",
-      "eta": "Q3 2026"
-    },
-    {
-      "title": "Competition Tracking",
-      "description": "Track competition results and performance scores",
-      "eta": "TBA"
-    },
-    {
-      "title": "Training Plan",
-      "description": "Pre-build your training routine in advance for those who consistantly stick to their training routine.",
-      "eta": "TBA"
-    }
-  ],
-  "completed": [
-    {
-      "title": "Weekly Focus Notes",
-      "description": "Set weekly training goals and focus areas",
-      "completedDate": "Dec 2024"
-    },
-    {
-      "title": "Profile Pictures",
-      "description": "Upload and crop custom profile pictures",
-      "completedDate": "Dec 2024"
-    },
-    {
-      "title": "On-Ice Element Tracking",
-      "description": "Track specific on-ice elements (jumps, spins, footwork, program)",
-      "completedDate": "Nov 2024"
-    }
-  ]
+  "inProgress": [
+    {
+      "title": "Migrating To Supabase",
+      "description": "Moving our backend from Firebase to Supabase. You hopefully won't notice the difference but we might have some teething issues.",
+      "eta": "Jan 2026",
+      "icon": "Cloud"
+    },
+    {
+      "title": "Weekly Report Emails",
+      "description": "Send comprehensive weekly training reports to your coach via email.",
+      "eta": "Coming Soon",
+      "icon": "Sparkles"
+    }
+  ],
+  "planned": [
+    {
+      "title": "Mobile App",
+      "description": "Cross Platform mobile (Android and iOS) app for training on the go",
+      "eta": "Q2 2026"
+    },
+    {
+      "title": "Coach Dashboard",
+      "description": "Dedicated portal for coaches to view and manage multiple athletes",
+      "eta": "Q3 2026"
+    },
+    {
+      "title": "Competition Tracking",
+      "description": "Track competition results and performance scores",
+      "eta": "TBA"
+    },
+    {
+      "title": "Training Plan",
+      "description": "Pre-build your training routine in advance for those who consistantly stick to their training routine.",
+      "eta": "TBA"
+    }
+  ],
+  "completed": [
+    {
+      "title": "Weekly Focus Notes",
+      "description": "Set weekly training goals and focus areas",
+      "completedDate": "Dec 2024"
+    },
+    {
+      "title": "Profile Pictures",
+      "description": "Upload and crop custom profile pictures",
+      "completedDate": "Dec 2024"
+    },
+    {
+      "title": "On-Ice Element Tracking",
+      "description": "Track specific on-ice elements (jumps, spins, footwork, program)",
+      "completedDate": "Nov 2024"
+    }
+  ]
 }
