@@ -1,5 +1,5 @@
 {
-  "inProgress": [
+"inProgress": [
     {
       "title": "Migrating To Supabase",
       "description": "Moving our backend from Firebase to Supabase. You hopefully won't notice the difference but we might have some teething issues.",
